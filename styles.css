@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+
+main{
+	padding:20px;
+	background-color:#f5f5f5;
+}
+
+.divs{
+	padding:10px;
+	margin-bottom:20px;
+	background-color: white;
+	border: 1px solid black;
+}
+
+.author{
+	text-align:right;
+	font-style:italic;
+}
